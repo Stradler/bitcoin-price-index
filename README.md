@@ -7,7 +7,7 @@ Info About this "project":
 
 * Is it going to be ongoing project?
 
-  Maybe. ![alt text](./stuffhappens,jpg)
+  Maybe. ![alt text](./stuffhappens.jpg)
 
 * Why there are  only three questions so far?
 
