@@ -11,7 +11,7 @@ Info About this "project":
 
 * Why there are  only three questions so far?
 
-  ~~That's my favorite digit~~. Actually it's **42**. So expect more clarifications on the future of this... project.
+  ~~That's my favorite number~~. Actually it's **42**. So expect more clarifications on the future of this... project.
 
 * More stuff? What? 
 
