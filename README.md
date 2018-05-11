@@ -1,5 +1,9 @@
 # Bitcoin Current Price Check in USD
 
+---------------------------------------
+[Online Version](https://stradler.github.io/bitcoin-price-index/)
+---------------------------------------
+
 Info About this "project":
 * Why? 
 
